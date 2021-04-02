@@ -8,4 +8,4 @@ Mit einem Mikrofon wollen wir den Schallpegel messen und in drei verschiedenen S
 ## Zielgruppe:
 Pfadfinderinnen und Pfadfinder
 
-http://dev-blog.vcp.de/laermampel-teil-3-komfortable-laermampel/
+<!--http://dev-blog.vcp.de/laermampel-teil-3-komfortable-laermampel/-->
